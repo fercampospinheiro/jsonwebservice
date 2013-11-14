@@ -9,7 +9,7 @@ Usa a biblioteca Gson do Google para geração de arquivos JSON.
 <b>Distribuição do Projeto :</b>
 
 
-<img src="https://mail.google.com/mail/u/0/?ui=2&ik=ee5b2e5b91&view=att&th=141ad1827964f870&attid=0.0.1&disp=emb&realattid=ii_141acc7a36c4adc3&zw&atsh=1"/>
+<img src="https://dl.dropboxusercontent.com/u/97424374/Imagens/img_projeto%20%281%29.jpg"/>
 
 
 
@@ -38,7 +38,7 @@ devolve informações que são tranformadas em arquivo de JSON de saída.
 
 <b>exemplo</b><br>
 
-<img src="https://mail.google.com/mail/u/0/?ui=2&ik=ee5b2e5b91&view=att&th=141ad1827964f870&attid=0.0.2&disp=emb&realattid=ii_141ad0d606c1ed9e&zw&atsh=1"/>
+<img src="https://dl.dropboxusercontent.com/u/97424374/Imagens/img_consumir_webservice.jpg"/>
 
 <b>Comentário do Desenvolvedor</b> :
 
